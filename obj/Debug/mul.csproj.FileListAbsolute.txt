@@ -1,0 +1,6 @@
+C:\Users\vs828\source\repos\mul\bin\Debug\mul.exe.config
+C:\Users\vs828\source\repos\mul\bin\Debug\mul.exe
+C:\Users\vs828\source\repos\mul\bin\Debug\mul.pdb
+C:\Users\vs828\source\repos\mul\obj\Debug\mul.csprojAssemblyReference.cache
+C:\Users\vs828\source\repos\mul\obj\Debug\mul.exe
+C:\Users\vs828\source\repos\mul\obj\Debug\mul.pdb
